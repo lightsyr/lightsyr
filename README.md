@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lightsyr
-- 👀 I’m interested in Programming, Gaming and 
+- 👀 I’m interested in Full Stack Programming 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can contact me by e-mail: contato.leandroncampos@gmail.com
