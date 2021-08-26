@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lightsyr
 - 👀 I’m interested in Full Stack Programming 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Java and Javascript.
+- 💞️ I’m looking to collaborate on Fullstack and game development projects
 - 📫 You can contact me by e-mail: contato.leandroncampos@gmail.com
 
 <!---
