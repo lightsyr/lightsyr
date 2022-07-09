@@ -17,7 +17,7 @@ You can find me in the social medias bellow:
 		name: Leandro,
 		lastName: Campos,
 		age: 23,
-		description: 'Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more'
+		description: "Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more"
 		location:{
 			country: "Brazil",
 			state: "Bahia",
