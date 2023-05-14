@@ -17,7 +17,7 @@ You can find me in the social medias bellow:
 		name: "Leandro",
 		lastName: "Campos",
 		age: 23,
-		currentlySpecializing: ["Go", "Distributed Services", "GRPC"]
+		currentlySpecializing: ["Go", "Distributed Services", "GRPC"],
 		description: "Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more"
 		address:{
 			country: "Brazil",
