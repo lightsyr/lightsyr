@@ -18,7 +18,7 @@ You can find me in the social medias bellow:
 		lastName: "Campos",
 		age: 23,
 		currentlySpecializing: ["Go", "Distributed Services", "GRPC"],
-		description: "Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more"
+		description: "Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more",
 		address:{
 			country: "Brazil",
 			state: "Bahia",
