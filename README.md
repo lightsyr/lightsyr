@@ -1,6 +1,6 @@
 # 💻 Hello World! I'm Leandro~ 			
 📚 * *Software Enginner Gratuated in [Estácio](https://estacio.br/)*
- 🖊️ * *Full Stack Developer on [Click Interativo](https://www.clickinterativo.com.br/)*
+ 🖊️ * *Educator on [SENAC](https://ba.senac.br/Home/Index)*
 
 ![Top Pikachu Dancing Stickers for Android & iOS | Gfycat](https://thumbs.gfycat.com/UnderstatedFlashyHumpbackwhale-max-1mb.gif)
 
