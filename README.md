@@ -10,6 +10,9 @@ You can find me in the social medias bellow:
 [linkedin](https://www.linkedin.com/in/leandro-campos-750388214/)
 [Twitter](https://twitter.com/LightSyr)
 
+## Certifications
+![Cybersegurity](https://images.credly.com/size/340x340/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)
+
 
 ## ✨A little bit more about me:
 ```js
