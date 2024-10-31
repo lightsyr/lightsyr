@@ -13,7 +13,7 @@ You can find me in the social medias bellow:
 ## Certifications
 | Cybersecurity  | Machine Learning |
 | ------------- | ------------- |
-| ![Cybersegurity](https://images.credly.com/size/340x340/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)  | ![Machine Learning](https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png) |
+| ![Cybersegurity](https://images.credly.com/size/680x680/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)  | ![Machine Learning](https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png) |
 
 
 
