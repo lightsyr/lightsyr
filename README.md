@@ -1,66 +1,57 @@
-# 💻 Hello World! I'm Leandro~ 			
-📚 * *Software Enginner Gratuated in [Estácio](https://estacio.br/)*
- 🖊️ * *Educator on [SENAC](https://ba.senac.br/Home/Index)*
+# 👨‍💻 Leandro Campos  
 
-![Top Pikachu Dancing Stickers for Android & iOS | Gfycat](https://thumbs.gfycat.com/UnderstatedFlashyHumpbackwhale-max-1mb.gif)
+Bem-vindo ao meu perfil! 🚀  
+Sou apaixonado por **Educação, Tecnologia e Inovação**. Meu propósito é unir **tecnologia** e **ensino** para criar experiências de aprendizado mais acessíveis, personalizadas e eficientes, explorando o poder da **IA** e do **desenvolvimento de software**.  
 
-Hi everyone! My name is Leandro, yeah i know, its not a very easy name to spell, specially in english, so you can call me Leo/Leonard too. Im a fullstack web developer who love to meet new people and share experiences.
-You can find me in the social medias bellow:
+---
 
-[linkedin](https://www.linkedin.com/in/leandro-campos-750388214/)
-[Twitter](https://twitter.com/LightSyr)
+## 📚 Sobre mim  
 
-## Certifications
-| Cybersecurity  | Machine Learning |
-| ------------- | ------------- |
-| ![Cybersegurity](https://images.credly.com/size/680x680/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)  | ![Machine Learning](https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png) |
+- 🎓 **Formação Acadêmica:**  
+  - Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**  
+  - **Pós-graduação em Ciência de Dados**  
+  - Certificado em **Segurança da Informação**  
+  - Certificado em **Machine Learning pela IBM**  
 
+- 💡 **Áreas de interesse:**  
+  - Inteligência Artificial aplicada à Educação  
+  - Desenvolvimento Web (Fullstack)  
+  - Segurança da Informação  
+  - Criação de plataformas SaaS de educação  
+  - Popularização do ensino de tecnologia  
 
+- 🎯 **Objetivo:**  
+  Impactar a área da **Educação** através da tecnologia, trazendo inovação e soluções escaláveis para instituições e alunos.  
 
+---
 
+## 🌍 Onde me encontrar  
 
-## ✨A little bit more about me:
-```js
-	let mySelf = {
-		name: "Leandro",
-		lastName: "Campos",
-		age: 23,
-		currentlySpecializing: ["Go", "Distributed Services", "GRPC"],
-		description: "Im a Full Stack mid-level developer who loves to share my experience, meet new friends and learn even more",
-		address:{
-			country: "Brazil",
-			state: "Bahia",
-			city: "Salvador"
-		},
-		passions:["Performance", "Software Design", "Javascript", "Open Source", "Go", "Solid", "React", "Svelte", "SQL", "Mongo", "Education", "UX", "Developer Ergonomics", "Simplicity"]
-	}
-```
-## 🔧 My Skills 
+- 📸 **Instagram Profissional:** [@instrutor.leandro.campos](https://instagram.com/instrutor.leandro.campos)  
+  → Conteúdos diários sobre **Educação, Tecnologia e IA aplicada**  
+- 💼 **LinkedIn:** [Leandro Campos](https://www.linkedin.com/in/leandro-campos-750388214/)  
+- 🖥️ **Portfólio:** _(em breve landing page no formato de portfólio + captação)_  
+- ✉️ **E-mail:** instrutor.leandro.campos@gmail.com
 
-Im aways learning new things, the list above its a preview what im using or learning right now!
+---
 
- ### Front End Skills
+## ⚡ O que você vai encontrar por aqui  
 
- - React
- - Svelte
- - [Solid](https://www.solidjs.com/) (Amazing framework, take a look pls!)
- - Javascript 
- - Typescript
- - CSS
- - Performance Optimizations (Web Vitals)
- - SASS
- - LESS
- - [Astro](https://astro.build/) (Damn, i love that one! take a look pls!)
- - HTML (Learning a lot about accessibility, [you should it too](https://www.w3.org/standards/webdesign/accessibility))
- - Figma (I used to be a designer/ux, i still doing some work on that area, but its not my focus anymore)
+- Projetos e experimentos em **Educação + IA**  
+- Aplicações em **Machine Learning e Data Science**  
+- Desenvolvimento de soluções **Fullstack**  
+- Repositórios com **códigos abertos** e **projetos de ensino**  
+- Recursos e exemplos práticos para **estudantes e desenvolvedores**  
 
-### Back End Skills
- - Node
- - Performance Optimizations
- - AWS
- - Coldfusion (ACFM/Lucee)
- - Azure
- - Deno
- - Go
- - Relational DataBases (Mysql, Sqlite, Postgres, etc)
- - No Relational Databases (Mongo, Firebase, Surreal, Deno KV, Cloudflare KV)
+---
+
+## 📊 GitHub Stats  
+
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightsyr&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsyr&layout=compact&theme=tokyonight)  
+
+---
+
+## ✨ Frase que me guia  
+
+> "A tecnologia é a ponte entre o presente da educação e o futuro da humanidade."  
