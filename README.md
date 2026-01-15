@@ -67,10 +67,3 @@ Sou um apaixonado por unir **tecnologia** e **ensino**. Com background em Análi
 | 📚 **Ensino** | Códigos abertos didáticos para alunos e devs. |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightsyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightsyr&layout=compact&theme=tokyonight"/>
-</div>
