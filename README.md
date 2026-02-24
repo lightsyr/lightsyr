@@ -7,6 +7,9 @@
      <i>"A tecnologia é a ponte entre o presente da educação e o futuro da humanidade."</i>
   </p>
 
+  <a href="https://instrutorleandrocampos.com.br/">
+    <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/leandro-campos-750388214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
