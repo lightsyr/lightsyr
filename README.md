@@ -29,7 +29,7 @@
 
 Sou um apaixonado por unir **tecnologia** e **ensino**. Com background em Análise de Sistemas e Ciência de Dados, meu foco é criar plataformas SaaS e soluções de IA que tornem o aprendizado mais acessível e personalizado.
 
-- 🎓 **Formação:** Tecnólogo em ADS, Pós em Ciência de Dados, Certificações em Segurança e ML (IBM).
+- 🎓 **Formação:** Tecnólogo em ADS, Pós em Ciência de Dados, Pós em ensino para filosofia e sociologia, Certificações em Segurança e ML (IBM).
 - 🔭 **Atualmente trabalhando em:** Projetos de IA aplicada à Educação.
 - 🌱 **Aprendendo:** Novas arquiteturas de LLMs e estratégias de ensino adaptativo.
 - 🎯 **Objetivo:** Impactar a educação através de soluções escaláveis.
