@@ -4,7 +4,7 @@
     <b>Tecnologia | Educação | Inovação</b>
   </p>
   <p>
-    <i>"A tecnologia é uma ferramenta de emancipação para a humanidade."</i>
+    <i>"A tecnologia é uma ferramenta de emancipação para a sociedade"</i>
   </p>
 
   <a href="https://instrutorleandrocampos.com.br/">
@@ -36,12 +36,7 @@
 
 ### Sobre Mim
 
-Sou apaixonado por unir **tecnologia** e **educação**. Tenho formação e experiência em Análise e Desenvolvimento de Sistemas, Ciência de Dados, Matemática, Filosofia e Sociologia. Meu foco é criar soluções tecnológicas que tornem o aprendizado mais acessível, personalizado e escalável.
-
-- **Formação:** Análise e Desenvolvimento de Sistemas, pós-graduação em Ciência de Dados, pós-graduação em Ensino de Filosofia e Sociologia, pós-graduação em Modelagem Matemática e Computação Aplicada, além de certificações em Segurança Cibernética e Machine Learning (IBM).
-- **Atualmente trabalhando em:** Projetos de inovação aplicada à Educação.
-- **Aprendendo:** Novas arquiteturas de LLMs e estratégias de ensino adaptativo.
-- **Objetivo:** Impactar a educação por meio de soluções escaláveis.
+Sou apaixonado por unir **tecnologia** e **inovação**. Tenho formação e experiência em Análise e Desenvolvimento de Sistemas, Ciência de Dados, Matemática, Filosofia e Sociologia. Meu foco é criar soluções tecnológicas que tornem o aprendizado mais acessível, personalizado e escalável.
 
 ---
 
@@ -84,6 +79,5 @@ Sou apaixonado por unir **tecnologia** e **educação**. Tenho formação e expe
 | **Data Science** | Análises, visualização de dados e desenvolvimento de modelos de ML. |
 | **Fullstack** | Aplicações web completas, funcionais e seguras. |
 | **Games** | Códigos abertos de jogos publicados e de projetos em desenvolvimento. |
-| **Ensino** | Materiais e códigos didáticos para alunos e desenvolvedores. |
 
 ---
