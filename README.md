@@ -21,6 +21,7 @@
   </a>
 </div>
 
+<!---
 <div align="center">
   <h2>Conheça a Frente Popular de Educação Tecnológica (FPET)</h2>
   <p>Quer aprender tecnologia de graça e sem pré-requisito? Clique no link abaixo.</p>
@@ -30,7 +31,7 @@
 </div>
 
 <br>
-
+--->
 ---
 
 ### Sobre Mim
